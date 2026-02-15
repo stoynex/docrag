@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+backend/local_store.json
+
+# Node / Next
+node_modules
+.next
+out
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.envrc
+
+# OS
+.DS_Store
